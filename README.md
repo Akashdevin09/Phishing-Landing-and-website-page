@@ -9,7 +9,7 @@ This repository contains my project developed during the **5-day Bootcamp on Art
 ## 🔍 Project Overview
 
 The project demonstrates a **Phishing Simulation** designed **purely for educational and awareness purposes**.  
-It includes a **mock phishing email** and a **non-malicious landing page** to help understand:
+It includes a **mock phishing email**  using **SMPT Mail server**and a **non-malicious landing page** to help understand:
 - How phishing attempts are structured  
 - How users can identify and avoid them  
 - How AI can detect suspicious email patterns
