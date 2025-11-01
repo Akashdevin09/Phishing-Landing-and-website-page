@@ -13,6 +13,9 @@ It includes a **mock phishing email** and a **non-malicious landing page** to he
 - How phishing attempts are structured  
 - How users can identify and avoid them  
 - How AI can detect suspicious email patterns
+- ## 🌐 Live Demo
+
+🔗 **Visit the Educational Simulation:** [https://sbi-banking-in.vercel.app/](https://sbi-banking-in.vercel.app/)
 
 > ⚠️ **Note:** This project does **not** contain any malware, harmful scripts, or executable payloads. It is a **safe, ethical, and learning-oriented** simulation.
 
