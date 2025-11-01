@@ -37,3 +37,36 @@ It includes a **mock phishing email** and a **non-malicious landing page** to he
 ---
 
 ## 📁 Project Structure
+
+📦 phishing-awareness-project ├── index.html          # Simulated phishing landing page (educational) ├── style.css           # Styling for landing page ├── script.js           # Simulated form behavior ├── readme.md           # Project documentation └── assets/             # Images, logos, or resources used
+
+---
+
+## 🎯 Outcome
+
+This project helped me:
+- Learn **responsible cybersecurity practices**
+- Understand **ethical simulation techniques**
+- Apply **AI insights** for detecting phishing attempts
+- Contribute toward a **safer digital ecosystem**
+
+---
+
+## 🙌 Acknowledgment
+
+Special thanks to **IIT Patna**, the **ISEA team**, and the **Ministry of Electronics and IT (MeitY)** for conducting this valuable learning program on **AI and Cybersecurity**.
+
+---
+
+## 📜 Disclaimer
+
+This project is for **educational use only**.  
+It is **not intended** for real-world phishing, exploitation, or malicious activities.  
+All demonstrations are **safe and ethical** simulations to promote **cyber awareness**.
+
+---
+
+### 👨‍💻 Author
+
+**Akash Mishra**  
+B.Tech (ECE) | GEC Vaishali, Bihar  
